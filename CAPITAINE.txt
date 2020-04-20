@@ -1,0 +1,25 @@
+HTML A OUVRIR SUR FIREFOX ET EN AUTORISANT
+
+Je souhaitais mettre en évidence le lien entre l'arrivé de Netflix et de la fibre en France avec
+le déintérêt de la télévision.
+Il aurait été intéréssant de préciser ce déintérêt en fonctiondes tranches d'âges ce qui aurait
+(peut-être) permis de voir que ce sont les jeunes qui se détachent plus de la télévision et
+qui sont (de manière lié) les premiers client et utilisateur de Netflix et de la connection haut-débit.
+
+SOURCE :
+	NETFLIX : https://fr.statista.com/statistiques/564089/nombre-d-abonnes-streaming-netflix-dans-le-monde/
+	en france : https://www.statista.com/statistics/607819/netflix-subscribers-in-france/
+	
+	temps TV : http://www.observationsociete.fr/modes-de-vie/loisirs-culture/duree-ecoute-television.html
+
+	FIBRE : https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/observatoire-des-abonnements-et-deploiements-du-haut-et-tres-haut-debit/observatoire-haut-et-tres-haut-debit-abonnements-et-deploiements-t4-2019.html                                                                                                                                                
+	+ https://www.arcep.fr/fileadmin/reprise/observatoire/HD-THD-2017/2019-t4/Observatoire_HD_THD_T4_2019.pdf
+
+
+INSPIRATION :
+	https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+	https://bl.ocks.org/d3noob/e34791a32a54e015f57d
+
+
+
+

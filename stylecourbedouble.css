@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+}
+
+#lien {
+justify-content: flex-start;
+}
+
+#courbe {
+  margin-top: 30px;
+
+}
+
+a.link {
+  margin-top: 50rem;
+ color:blue;
+ font-size: 14px;
+
+  } 
+
+
+#container {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 25px;
+
+}
+
+h2 {
+  color: steelblue;
+  font-size: 13px;
+  margin: 0;
+
+
+}
+
+h3 {
+  color: red;
+  font-size: 13px;
+  margin: 0;
+}
+
+h4 {
+  color: green;
+  font-size: 13px;
+  margin: 0;
+
+}

@@ -1,0 +1,44 @@
+
+
+#container {
+	display: flex;
+	flex-direction: row;
+	width: 100vw;
+}
+
+#my_dataviz, #my_dataviz2, #my_dataviz3 {
+	width: 33%;
+}
+
+
+#my_dataviz {
+	z-index: 0;
+
+}
+
+
+#my_dataviz2 {
+	z-index: 3;
+	}
+
+p {
+	text-align: center;
+}
+
+#link {
+	text-align: center;
+}
+
+#coucou {
+	text-align: center;
+	margin-top: 20px;
+}
+
+#titi {
+	margin-top: 22px;
+}
+
+a {
+  margin-top: 50rem;
+ color:blue;	
+  } 
